@@ -4,10 +4,10 @@
 
 An inventory management project coded in Jupyter Notebook.
 Functionality including 
-Update
-Add
-Purchase
-Sales
+Update,
+Add,
+Purchase,
+Sales.
 2 Json file are included one for Stocks and another for Sales.
 
 **Who am I?**
